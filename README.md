@@ -103,3 +103,12 @@ CookieServlet o/p link 2:https://github.com/krnuthannuthu/java-programs/blob/mai
 CookieServalet 8b o/p link 1:https://github.com/krnuthannuthu/java-programs/blob/main/Lab-8b/CookieServlet8b.png
 
 CookieServalet 8b o/p link 2:https://github.com/krnuthannuthu/java-programs/blob/main/Lab-8b/CookeServlet8b2.png
+
+SessionTrackingServlet o/p link:https://github.com/krnuthannuthu/java-programs/blob/main/Lab-9a/SessionTrackingServlet.png
+
+lab-9b o/p link 1:https://github.com/krnuthannuthu/java-programs/blob/main/Lab-9b/lab9.png
+
+lab-9b o/p link 2:https://github.com/krnuthannuthu/java-programs/blob/main/Lab-9b/lab9b.png
+
+lab-9b o/p link 3:https://github.com/krnuthannuthu/java-programs/blob/main/Lab-9b/lab9b2.png
+

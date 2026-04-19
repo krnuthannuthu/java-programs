@@ -20,7 +20,9 @@ SubListExample o/p link:https://github.com/krnuthannuthu/java-programs/blob/main
 
 SwapElements o/p link:https://github.com/krnuthannuthu/java-programs/blob/main/Lab1-Exercises/SwapElements.pngp1
 
- lab2 p1 o/p link:https://github.com/krnuthannuthu/java-programs/blob/main/lab2-Exercises/p1.png
+MapInterfaceDemo o/p link:https://github.com/krnuthannuthu/java-programs/blob/main/MapInterFaceDemo.png
+
+lab2 p1 o/p link:https://github.com/krnuthannuthu/java-programs/blob/main/lab2-Exercises/p1.png
 
 lab2 p2 o/p link:https://github.com/krnuthannuthu/java-programs/blob/main/lab2-Exercises/p2.png
 
@@ -43,6 +45,8 @@ lab2 p10 o/p link:https://github.com/krnuthannuthu/java-programs/blob/main/lab2-
 lab2 p11 o/p link:https://github.com/krnuthannuthu/java-programs/blob/main/lab2-Exercises/p11.png
 
 lab2 p12 o/p link:https://github.com/krnuthannuthu/java-programs/blob/main/lab2-Exercises/p12.png
+
+StringHandlingDemo o/p link:https://github.com/krnuthannuthu/java-programs/blob/main/StringHandlingDemo.png
 
 CapitalizeWordsDemo o/p link:https://github.com/krnuthannuthu/java-programs/blob/main/Lab3-Exercises/CapitalizeWordsDemo.png
 

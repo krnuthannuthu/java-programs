@@ -15,3 +15,5 @@ SearchColor o/p link:https://github.com/krnuthannuthu/java-programs/blob/main/La
 SortColors o/p link:https://github.com/krnuthannuthu/java-programs/blob/main/Lab1-Exercises/SortColors.png
 
 SubListExample o/p link:https://github.com/krnuthannuthu/java-programs/blob/main/Lab1-Exercises/SubListExample.png
+
+SwapElements o/p link:https://github.com/krnuthannuthu/java-programs/blob/main/Lab1-Exercises/SwapElements.png

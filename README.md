@@ -96,3 +96,10 @@ PrimeServlet o/p link link1:https://github.com/krnuthannuthu/java-programs/blob/
 
 PrimeServlet o/p link link2:https://github.com/krnuthannuthu/java-programs/blob/main/Lab-7c/PrimeServlet2.png
 
+CookieServlet o/p link 1:https://github.com/krnuthannuthu/java-programs/blob/main/Lab-8a/CookieServlet.png
+
+CookieServlet o/p link 2:https://github.com/krnuthannuthu/java-programs/blob/main/Lab-8a/CookieServlet2.png
+
+CookieServalet 8b o/p link 1:https://github.com/krnuthannuthu/java-programs/blob/main/Lab-8b/CookieServlet8b.png
+
+CookieServalet 8b o/p link 2:https://github.com/krnuthannuthu/java-programs/blob/main/Lab-8b/CookeServlet8b2.png

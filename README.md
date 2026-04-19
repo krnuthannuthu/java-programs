@@ -85,3 +85,14 @@ CountryCapitalList o/p link:https://github.com/krnuthannuthu/java-programs/blob/
 JListExample o/p link:https://github.com/krnuthannuthu/java-programs/blob/main/Lab-6/JlistExample.png
 
 TabbedPaneExample o/p link:https://github.com/krnuthannuthu/java-programs/blob/main/Lab-6/TabbedPaneExample.png
+
+FirstServlet o/p link:https://github.com/krnuthannuthu/java-programs/blob/main/Lab-7a/FirstServlet.png
+
+FactorialServlet o/p link 1:https://github.com/krnuthannuthu/java-programs/blob/main/Lab-7b/FactorialServlet.png
+
+FactorialServlet o/p link 2:https://github.com/krnuthannuthu/java-programs/blob/main/Lab-7b/FactorialServlet2.png
+
+PrimeServlet o/p link link1:https://github.com/krnuthannuthu/java-programs/blob/main/Lab-7c/PrimeServlet.png
+
+PrimeServlet o/p link link2:https://github.com/krnuthannuthu/java-programs/blob/main/Lab-7c/PrimeServlet2.png
+

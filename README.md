@@ -18,4 +18,6 @@ SortColors o/p link:https://github.com/krnuthannuthu/java-programs/blob/main/Lab
 
 SubListExample o/p link:https://github.com/krnuthannuthu/java-programs/blob/main/Lab1-Exercises/SubListExample.png
 
-SwapElements o/p link:https://github.com/krnuthannuthu/java-programs/blob/main/Lab1-Exercises/SwapElements.png
+SwapElements o/p link:https://github.com/krnuthannuthu/java-programs/blob/main/Lab1-Exercises/SwapElements.pngp1
+
+p1 o/p link:https://github.com/krnuthannuthu/java-programs/blob/main/lab2-Exercises/p1.png

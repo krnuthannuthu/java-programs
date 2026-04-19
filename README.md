@@ -9,3 +9,5 @@ RemoveColors o/p link:https://github.com/krnuthannuthu/java-programs/blob/main/L
 RemoveNthElement o/p link:https://github.com/krnuthannuthu/java-programs/blob/main/Lab1-Exercises/RemoveNthElement.png
 
 ReverseIteration o/p link:https://github.com/krnuthannuthu/java-programs/blob/main/Lab1-Exercises/ReverseIteration.png
+
+SearchColor o/p link:https://github.com/krnuthannuthu/java-programs/blob/main/Lab1-Exercises/SearchColor.png

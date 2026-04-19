@@ -27,3 +27,19 @@ lab2 p2 o/p link:https://github.com/krnuthannuthu/java-programs/blob/main/lab2-E
 lab2 p3 o/p link:https://github.com/krnuthannuthu/java-programs/blob/main/lab2-Exercises/p3.png
 
 lab2 p4 o/p link:https://github.com/krnuthannuthu/java-programs/blob/main/lab2-Exercises/p4.png
+
+lab2 p5 o/p link:https://github.com/krnuthannuthu/java-programs/blob/main/lab2-Exercises/p5.png
+
+lab2 p6 o/p link:https://github.com/krnuthannuthu/java-programs/blob/main/lab2-Exercises/p6.png
+
+lab2 p7 o/p link:https://github.com/krnuthannuthu/java-programs/blob/main/lab2-Exercises/p7.png
+
+lab2 p8 o/p link:https://github.com/krnuthannuthu/java-programs/blob/main/lab2-Exercises/p8.png
+
+lab2 p9 o/p link:https://github.com/krnuthannuthu/java-programs/blob/main/lab2-Exercises/p9.png
+
+lab2 p10 o/p link:https://github.com/krnuthannuthu/java-programs/blob/main/lab2-Exercises/p10.png
+
+lab2 p11 o/p link:https://github.com/krnuthannuthu/java-programs/blob/main/lab2-Exercises/p11.png
+
+lab2 p12 o/p link:https://github.com/krnuthannuthu/java-programs/blob/main/lab2-Exercises/p12.png

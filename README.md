@@ -69,3 +69,11 @@ WordCountDemo o/p link:https://github.com/krnuthannuthu/java-programs/blob/main/
 PerformanceTest o/p link:https://github.com/krnuthannuthu/java-programs/blob/main/Lab-4/PerformanceTest.png
 
 StringInterviewSolution o/p link:https://github.com/krnuthannuthu/java-programs/blob/main/Lab-4/StringInterviewSolution.png
+
+ButtonExample o/p link:https://github.com/krnuthannuthu/java-programs/blob/main/Lab-5/ButtonExample.png
+
+ImageButtonExample o/p link:https://github.com/krnuthannuthu/java-programs/blob/main/Lab-5/ImageButtonExample.png
+
+MouseEventExample o/p link:https://github.com/krnuthannuthu/java-programs/blob/main/Lab-5/MouseEventExample.png
+
+SwingExample o/p link:https://github.com/krnuthannuthu/java-programs/blob/main/Lab-5/SwingExample.png

@@ -20,4 +20,6 @@ SubListExample o/p link:https://github.com/krnuthannuthu/java-programs/blob/main
 
 SwapElements o/p link:https://github.com/krnuthannuthu/java-programs/blob/main/Lab1-Exercises/SwapElements.pngp1
 
-p1 o/p link:https://github.com/krnuthannuthu/java-programs/blob/main/lab2-Exercises/p1.png
+ lab2 p1 o/p link:https://github.com/krnuthannuthu/java-programs/blob/main/lab2-Exercises/p1.png
+
+

@@ -65,3 +65,7 @@ SubstringCount o/p link:https://github.com/krnuthannuthu/java-programs/blob/main
 TruncateStringDemo o/p link:https://github.com/krnuthannuthu/java-programs/blob/main/Lab3-Exercises/TruncateStringDemo.png
 
 WordCountDemo o/p link:https://github.com/krnuthannuthu/java-programs/blob/main/Lab3-Exercises/WordCountDemo.png
+
+PerformanceTest o/p link:https://github.com/krnuthannuthu/java-programs/blob/main/Lab-4/PerformanceTest.png
+
+StringInterviewSolution o/p link:https://github.com/krnuthannuthu/java-programs/blob/main/Lab-4/StringInterviewSolution.png

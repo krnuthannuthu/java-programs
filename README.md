@@ -25,3 +25,5 @@ SwapElements o/p link:https://github.com/krnuthannuthu/java-programs/blob/main/L
 lab2 p2 o/p link:https://github.com/krnuthannuthu/java-programs/blob/main/lab2-Exercises/p2.png
 
 lab2 p3 o/p link:https://github.com/krnuthannuthu/java-programs/blob/main/lab2-Exercises/p3.png
+
+lab2 p4 o/p link:https://github.com/krnuthannuthu/java-programs/blob/main/lab2-Exercises/p4.png

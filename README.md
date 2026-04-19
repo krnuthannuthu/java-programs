@@ -43,3 +43,25 @@ lab2 p10 o/p link:https://github.com/krnuthannuthu/java-programs/blob/main/lab2-
 lab2 p11 o/p link:https://github.com/krnuthannuthu/java-programs/blob/main/lab2-Exercises/p11.png
 
 lab2 p12 o/p link:https://github.com/krnuthannuthu/java-programs/blob/main/lab2-Exercises/p12.png
+
+CapitalizeWordsDemo o/p link:https://github.com/krnuthannuthu/java-programs/blob/main/Lab3-Exercises/CapitalizeWordsDemo.png
+
+NullOrEmptyCheck o/p link:https://github.com/krnuthannuthu/java-programs/blob/main/Lab3-Exercises/NullOrEmptyCheck.png
+
+NumericCheckDemo o/p link:https://github.com/krnuthannuthu/java-programs/blob/main/Lab3-Exercises/NumericCheckDemo.png
+
+PalindromeCheck o/p link:https://github.com/krnuthannuthu/java-programs/blob/main/Lab3-Exercises/PalindromeCheck.png
+
+RandomString o/p link:https://github.com/krnuthannuthu/java-programs/blob/main/Lab3-Exercises/RandomStringDemo.png
+
+RemoveWhitespace o/p link:https://github.com/krnuthannuthu/java-programs/blob/main/Lab3-Exercises/RemoveWhitespace.png
+
+ReverseStringDemo o/p link:https://github.com/krnuthannuthu/java-programs/blob/main/Lab3-Exercises/ReverseStringDemo.png
+
+StringBuildingFunction o/p link:https://github.com/krnuthannuthu/java-programs/blob/main/Lab3-Exercises/StringBuildingFunctions.png
+
+SubstringCount o/p link:https://github.com/krnuthannuthu/java-programs/blob/main/Lab3-Exercises/SubStringCount.png
+
+TruncateStringDemo o/p link:https://github.com/krnuthannuthu/java-programs/blob/main/Lab3-Exercises/TruncateStringDemo.png
+
+WordCountDemo o/p link:https://github.com/krnuthannuthu/java-programs/blob/main/Lab3-Exercises/WordCountDemo.png

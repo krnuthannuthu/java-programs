@@ -112,3 +112,11 @@ lab-9b o/p link 2:https://github.com/krnuthannuthu/java-programs/blob/main/Lab-9
 
 lab-9b o/p link 3:https://github.com/krnuthannuthu/java-programs/blob/main/Lab-9b/lab9b2.png
 
+UserDataServelt o/p link 1:https://github.com/krnuthannuthu/java-programs/blob/main/Lab-10a/UserDataServlet.png
+
+UserDataServelt o/p link 2:https://github.com/krnuthannuthu/java-programs/blob/main/Lab-10a/UserDataServlet2.png
+
+ResultServlet o/p link 1:https://github.com/krnuthannuthu/java-programs/blob/main/Lab-10b/ResultServlet.png
+
+ResultServlet o/p link 2:https://github.com/krnuthannuthu/java-programs/blob/main/Lab-10b/ResultServlet2.png
+

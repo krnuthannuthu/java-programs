@@ -77,3 +77,11 @@ ImageButtonExample o/p link:https://github.com/krnuthannuthu/java-programs/blob/
 MouseEventExample o/p link:https://github.com/krnuthannuthu/java-programs/blob/main/Lab-5/MouseEventExample.png
 
 SwingExample o/p link:https://github.com/krnuthannuthu/java-programs/blob/main/Lab-5/SwingExample.png
+
+ColorTabbedPane o/p link:https://github.com/krnuthannuthu/java-programs/blob/main/Lab-6/ColorTabbedPane.png
+
+CountryCapitalList o/p link:https://github.com/krnuthannuthu/java-programs/blob/main/Lab-6/CountryCapitalList.png
+
+JListExample o/p link:https://github.com/krnuthannuthu/java-programs/blob/main/Lab-6/JlistExample.png
+
+TabbedPaneExample o/p link:https://github.com/krnuthannuthu/java-programs/blob/main/Lab-6/TabbedPaneExample.png
